@@ -3,9 +3,9 @@
 <h3 align="center">Future Backend Developer in Progress</h3>
 
 
-- 🔭 I’m currently Studying **Computer Science and Engineering**
+- 🔭 I’m currently Studying **CSE Specialization in AI&ML**
 
-- 🌱 I’m currently learning **React. Js**
+- 🌱 Currently learning **React. Js**
 
 - 💬 Ask me about **Python, C++**
 <h3 align="center">Languages and Tools:</h3>
