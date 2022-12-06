@@ -19,10 +19,11 @@
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="50" height="50"/> </a></p>
 <br>
 
-<div align='center'>
-[![Priyanshu's github activity graph]<https://github-readme-activity-graph.cyclic.app/graph?username=priyanshu0931&theme=xcode>]<https://github.com/priyanshu0931/github-readme-activity-graph>
+<p>
+<img align="center" https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshu0931&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true/>
 
-</div>
+</p>
+
 <br/>
 <div align='center' width="5rem">
     <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=priyanshu0931&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=60C376" alt="Dhruvraj  github stats" />
