@@ -20,7 +20,7 @@
 <br>
 
 <div align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=priyanshu0931&theme=xcode&bg_color=151515&area=true&hide_border=true&area_color=60C376&line=60C376&point=60C376"/>
+[![Priyanshu's github activity graph]<https://github-readme-activity-graph.cyclic.app/graph?username=priyanshu0931&theme=xcode>]<https://github.com/priyanshu0931/github-readme-activity-graph>
 
 </div>
 <br/>
