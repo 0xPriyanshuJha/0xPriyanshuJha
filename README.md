@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studying **CSE Specialization in AI&ML**
 
-- 🌱 Currently working on **Backend Developer**
+- 🌱 Currently focusing on **Backend Developer**
 
 - 💬 Ask me about **Python, C++**
 <h3 align="center">Languages and Tools:</h3>
