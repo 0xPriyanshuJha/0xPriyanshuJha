@@ -27,6 +27,6 @@
 
 ![](https://github.com/Priyanshu0931/Priyanshu0931/blob/main/footer.png)
 
-[![@priyanshu0931's Holopin board](https://holopin.me/priyanshu0931)](https://holopin.io/@priyanshu0931)
+[![An image of @priyanshu0931's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu0931)](https://holopin.io/@priyanshu0931)
 
 
