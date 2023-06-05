@@ -13,8 +13,6 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,bootstrap,html,css,js,react,mongodb,expressjs,nodejs,tailwind,mysql" ></p>
 <br>
 
-<p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshu0931&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p>
-
 <br/>
 <div align='center' width="5rem">
      <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=Priyanshu0931&theme=jolly&show_icons=true"/>
