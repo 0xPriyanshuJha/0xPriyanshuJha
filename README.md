@@ -10,7 +10,7 @@
 - 💬 Ask me about **Python, C++**
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=python,cpp,bootstrap,html,css,js,react,mongodb,expressjs,nodejs,figma,tailwind,mysql" ></p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,bootstrap,html,css,js,react,mongodb,expressjs,nodejs,tailwind,mysql" ></p>
 <br>
 
 <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshu0931&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p>
