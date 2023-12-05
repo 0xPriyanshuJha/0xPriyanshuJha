@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, Myself Priyanshu Jha</h1>
-<h3 align="center">Future Backend Developer in Progress</h3>
+<h3 align="center">Future ML Developer in Progress</h3>
 
 
 - 🔭 I’m currently Studying **CSE Specialization in AI&ML**
 
-- 🌱 Currently focusing on **Backend Developer**
+- 🌱 Currently focusing on **ML Developer**
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, Java**
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,bootstrap,html,css,js,react,mongodb,expressjs,nodejs,tailwind,mysql" ></p>
