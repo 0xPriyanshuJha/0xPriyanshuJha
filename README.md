@@ -15,15 +15,15 @@
 
 <br/>
 <div align='center' width="5rem">
-     <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=OxPriyanshuJha&theme=jolly&show_icons=true"/>
-    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=OxPriyanshuJha&theme=jolly&border_radius=5" alt= "stats"/>
+     <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=0xPriyanshuJha&theme=jolly&show_icons=true"/>
+    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=0xPriyanshuJha&theme=jolly&border_radius=5" alt= "stats"/>
 </div>
 
 #
 
 
 
-![](https://github.com/OxPriyanshuJha/OxPriyanshuJha/blob/main/footer.png)
+![](https://github.com/0xPriyanshuJha/0xPriyanshuJha/blob/main/footer.png)
 
 [![An image of @priyanshu0931's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu0931)](https://holopin.io/@priyanshu0931)
 
