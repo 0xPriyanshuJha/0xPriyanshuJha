@@ -3,7 +3,7 @@
 <h3 align="center">ML Engineer in Progress</h3>
 
 
-- 🔭 I’m currently Studying **CSE Specialization in AI&ML**
+- 🔭 I’m currently Studying **CSE Specialization in AI & ML**
 
 - 🌱 Currently focusing on **Machine Learning**
 
