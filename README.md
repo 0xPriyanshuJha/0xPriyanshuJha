@@ -7,7 +7,7 @@
 
 - 🌱 Currently focusing on **Machine Learning**
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, Gen-AI, LLMs**
 
 ##
 
