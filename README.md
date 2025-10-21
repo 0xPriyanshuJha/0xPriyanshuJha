@@ -16,7 +16,7 @@
 <a href="mailto:priyanshujha2002@gmail.com" target="_blank"><img height="32px" src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </div>
 <div align="center">
-<a href="https://0x-priyanshu.vercel.app/" target="_blank"><img height="32px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+<a href="https://0xpriyanshujha.dev/" target="_blank"><img height="32px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </div>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
